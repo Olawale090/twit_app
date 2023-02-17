@@ -1,0 +1,23 @@
+{
+  "name": "twit_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.1",
+    "prisma": "^4.10.1"
+  },
+  "devDependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "jsonwebtoken": "^9.0.0",
+    "pg": "^8.9.0",
+    "typescript": "^4.9.5"
+  }
+}
